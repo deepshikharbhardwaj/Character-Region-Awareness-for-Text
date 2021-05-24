@@ -1,10 +1,6 @@
 ## CRAFT: Character-Region Awareness For Text detection
 Official Pytorch implementation of CRAFT text detector | [Paper](https://arxiv.org/abs/1904.01941) | [Pretrained Model](https://drive.google.com/open?id=1Jk4eGD7crsqCCg9C9VjCLkMN3ze8kutZ) | [Supplementary](https://youtu.be/HI8MzpY8KMI)
 
-**[Youngmin Baek](mailto:youngmin.baek@navercorp.com), Bado Lee, Dongyoon Han, Sangdoo Yun, Hwalsuk Lee.**
- 
-Clova AI Research, NAVER Corp.
-
 ### Sample Results
 
 ### Overview
@@ -62,7 +58,3 @@ The result image and socre maps will be saved to `./result` by default.
 * `--test_folder`: folder path to input images
 * `--refine`: use link refiner for sentense-level dataset
 * `--refiner_model`: pretrained refiner model
-
-
-## Links
-- WebDemo : https://demo.ocr.clova.ai/
